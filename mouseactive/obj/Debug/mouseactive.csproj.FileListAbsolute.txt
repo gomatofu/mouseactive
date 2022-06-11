@@ -1,0 +1,16 @@
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\bin\Debug\mouseactive.exe.config
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\bin\Debug\mouseactive.exe
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\bin\Debug\mouseactive.pdb
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\obj\Debug\mouseactive.csproj.AssemblyReference.cache
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\obj\Debug\mouseactive.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\obj\Debug\mouseactive.csproj.CoreCompileInputs.cache
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\obj\Debug\mouseactive.exe
+C:\Users\kaoru.gotou\source\repos\mouseactive\mouseactive\obj\Debug\mouseactive.pdb
+C:\goto\src\C#\mouseactive\mouseactive\bin\Debug\mouseactive.exe.config
+C:\goto\src\C#\mouseactive\mouseactive\bin\Debug\mouseactive.exe
+C:\goto\src\C#\mouseactive\mouseactive\bin\Debug\mouseactive.pdb
+C:\goto\src\C#\mouseactive\mouseactive\obj\Debug\mouseactive.csproj.AssemblyReference.cache
+C:\goto\src\C#\mouseactive\mouseactive\obj\Debug\mouseactive.csproj.SuggestedBindingRedirects.cache
+C:\goto\src\C#\mouseactive\mouseactive\obj\Debug\mouseactive.csproj.CoreCompileInputs.cache
+C:\goto\src\C#\mouseactive\mouseactive\obj\Debug\mouseactive.exe
+C:\goto\src\C#\mouseactive\mouseactive\obj\Debug\mouseactive.pdb
